@@ -12,7 +12,7 @@
   },
   "author": "Pedro Carvalho",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "nodemon": "^2.0.14"
   }
 }
