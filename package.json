@@ -11,5 +11,8 @@
     "url": "git@github-personal:pedrocarr/node_complete_udemy.git"
   },
   "author": "Pedro Carvalho",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.14"
+  }
 }
